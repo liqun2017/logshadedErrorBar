@@ -1,40 +1,20 @@
 # logshadedErrorBar
 
-fork from [neil-gallagher/CSFA](https://github.com/neil-gallagher/CSFA)
+fork from [shadedErrorBar](https://github.com/raacampbell/shadedErrorBar)
 
-Measures duration of evoked hippocampal and cortical seizures in LFP recordings
+For drawing power spectrum with logx and logy and with upper error bar in LFP recordings
 
 ## Getting Started
 
-### Prerequisites
-- [MATLAB](https://www.mathworks.com/products/matlab.html)
-- [MatlabUtils](https://github.com/yuichi-takeuchi/MatlabUtils)
-
-The codes have been tested with MATLAB ver 9.5 (R2018b) with the following toolboxes:
-- Curve Fitting Toolbox
-- Data Acquisition Toolbox
-- Image Acquisition Toolbox
-- Image Processing Toolbox
-- Signal Processing Toolbox
-- Statistics and Machine Learning Toolbox
-- Wavelet Toolbox
-
 ### Installing
 1. Install MATLAB
-2. Clone MatlabUtils in the \code\lib folder as a submodule.
+2. put logshadedErrorBar_150 in the Matlab folder.
 
-### How to use
-1. dat file should be located in the \data folder
-2. Launch \code\main.mlx
-3. Results will be blahblah.csv, blahblah.pdf, and blahblah.png files in the \results folder.
-
-## Versioning
-We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
-- **Yuichi Takeuchi PhD** - *Initial work* - [GitHub](https://github.com/yuichi-takeuchi)
+- **LI Qun PhD** - *Initial work* - [GitHub](https://github.com/liqun2017)
 - Affiliation: Department of Physiology, University of Szeged, Hungary
-- E-mail: takeuchi.yuichi@med.u-szeged.hu
+- E-mail: drqunli@gmail.com
 
 ## License
 This project is licensed under the MIT License.
