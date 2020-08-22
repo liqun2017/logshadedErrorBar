@@ -1,4 +1,4 @@
-# shadedErrorBar
+# logshadedErrorBar
 
 fork from [neil-gallagher/CSFA](https://github.com/neil-gallagher/CSFA)
 
