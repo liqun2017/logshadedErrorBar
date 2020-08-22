@@ -17,7 +17,7 @@ For drawing power spectrum with logx and logy and with upper error bar in LFP re
 - E-mail: drqunli@gmail.com
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL V3.0 License.
 
 ## Acknowledgments
 - [Berényi lab](http://www.berenyilab.com/)
